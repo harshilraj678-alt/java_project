@@ -1,0 +1,10 @@
+target/
+dist/
+dependency-reduced-pom.xml
+*.iml
+.idea/
+.vscode/
+data/
+*.db
+*.db-shm
+*.db-wal
